@@ -1,1 +1,1 @@
-http://syncplugins.ml/
+http://sync-plugins.tk/
