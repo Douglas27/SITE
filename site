@@ -1,1 +1,0 @@
-http://sync-plugins.tk/
