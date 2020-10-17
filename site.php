@@ -1,2 +1,2 @@
 
-http://sync-plugins.tk
+http://sync-plugins.tk/
