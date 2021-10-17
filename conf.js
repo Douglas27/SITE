@@ -110,7 +110,7 @@ $(document).ready(function () {
     var texto2_sub = "Reconexão e mais";
     var texto3_sub = "Mais coins para todos"; 
     
-    var regras = "Você não pode usar hack!" + "<br><br>" + "Oi";
+    var regras = "Você não pode usar hack!";
     
     $("#texto1").text(texto1); /* Você não pode modificar o target! */
     $("#texto2").text(texto2); /* Você não pode modificar o target! */
