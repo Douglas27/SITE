@@ -1,4 +1,13 @@
 /*
+  Aqui você pode adicionar códigos JavaScript
+  para serem executados no navegador dos seus
+  visitantes.
+
+  Por favor, não use tags script aqui (elas 
+  são adiciondas automaticamente).
+*/
+
+/*
 
  Configuração para o painel versão paga!
  opções simples, apenas para definir algumas coisas!
@@ -110,7 +119,7 @@ $(document).ready(function () {
     var texto2_sub = "Reconexão e mais";
     var texto3_sub = "Mais coins para todos"; 
     
-    var regras = "Você não pode usar hack!";
+    var regras = "1° - É proibido qualquer tipo de preconceito, discriminação por raça, cor, gênero e etc; "+ '<br><br>' +"2° - É proibido ameaçar pessoas através de contas falsas, palavras de ódio nos chats 3° - É proibido ofensas contra membros, staff e outros dentro dos chats do discord; 4° - É proibido postar nos chats Pornografia, zoofilia e itens intrigantes nos chats; 5° - Fazer desordem nos chats, como Spam, floods e outros é proibido em nosso discord; 6° - É proibido ameaçar, difamar, fazer sons intrigantes, ofender, discriminar nos canais de voz; 7° - Esta regra é adicional: Plágio do servidor, Discord e outros é proibido, pois é crime. Abaixo as regras In-game: Servidor: 1° - Proibido qualquer tipo de desordem como (Spam, flood, caps-lock, palavras inadequadas, iniciativa de flood e desinformação); 2° - Proibido qualquer tipo de anti-jogo nos chats como Ofensas a membros, ameaças, difamações, preconceitos, discriminação e etc; 3° - Totalmente proibido ofensas a staff do servidor e direcionado também ao servidor; 4° - Divulgações simples como falar o nome de algum servidor e Divulgação grave como mostrar o IP de algum servidor é proibido; 5° - Nickname e skin inapropriado não são permitidos para o bem de todos os players; 6° - Usar programas ilícitos como, Hacks, autoclickers e mods não permitidos é proibido! 7° - Recusar ScreenShare, ter rastro no PC de hacks antigos geram punição em nosso servidor; 8° - Pedir reembolso e extorno mesmo tendo concordado com os termos de compra resulta em punição.";
     
     $("#texto1").text(texto1); /* Você não pode modificar o target! */
     $("#texto2").text(texto2); /* Você não pode modificar o target! */
@@ -259,4 +268,3 @@ $('#btn-3').click(function(){ /* Você não pode modificar o target! */
   window.location = "#link-da-noticia-3";
   
 });
-",
