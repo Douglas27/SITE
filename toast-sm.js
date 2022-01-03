@@ -10,7 +10,7 @@ function popup(text, css=``) {
   setTimeout(function(){
     // 1000msã‹ã‘ã¦ãƒãƒƒãƒ—ã‚¢ãƒƒãƒ—ã‚’å‰Šé™¤
     popup_fire(p.id, 10, (Array.from({length: 100}, (_, i) => i*0.01).reverse()))
-  }, 1000);
+  }, 800);
 };
 
 // ãƒãƒƒãƒ—ã‚¢ãƒƒãƒ—ã®IDã‚’å†å¸°çš„ã«ç¢ºä¿
